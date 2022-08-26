@@ -1,0 +1,4 @@
+#Fri Aug 26 14:48:21 ICT 2022
+base.0=/Users/watthananick/StudioProjects/app_map/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
